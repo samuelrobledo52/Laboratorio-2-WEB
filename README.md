@@ -4,43 +4,58 @@
 **Carné:** 241282  
 **Curso:** Sistemas y Tecnologías Web  
 
-La pagina escogida fue reddit 
-foto antes:
+The page selected for this laboratory was Reddit.
+before
 <img width="1841" height="877" alt="Captura antes" src="https://github.com/user-attachments/assets/8622b2bd-4704-4d4f-ac64-2bf4101eb6ed" />
 
-foto despues:
+after
 <img width="1847" height="858" alt="Foto despues" src="https://github.com/user-attachments/assets/5330564a-df06-49e4-b8bf-b517c1dcb070" />
 
-La meta del estilo fue generar una versión de Reddit más oscura y minimalista, centrada en mejorar la legibilidad durante períodos largos y disminuir las distracciones.
+Style Objective
 
-Para evitar contrastes fuertes, los colores primarios se cambiaron por verdes claros y azules oscuros. Para garantizar la coherencia visual y facilitar la interacción, se modificaron los campos de texto y los botones.
+The goal of the style was to create a darker and more minimalist version of Reddit, focused on improving readability during long usage periods and reducing visual distractions.
 
-Además, se escondieron elementos publicitarios para dar prioridad al contenido y se modificaron los márgenes y bordes redondeados para conseguir un aspecto más moderno y limpio.
+To avoid harsh contrasts, the primary colors were replaced with soft greens and dark blues, resulting in a more comfortable visual experience. Text fields and buttons were modified to ensure visual consistency and improve user interaction.
 
-Utilizando la extensión Stylus, se aplicó el estilo que solo se utiliza en el dominio reddit.com.
+Additionally, advertising elements were hidden to prioritize content, and margins and rounded borders were adjusted to achieve a cleaner and more modern look.
 
+The style was applied using the Stylus browser extension, configured to run only on the reddit.com domain.
 
-## Decisiones de Diseño
+Design Decisions
 
-- Se utilizó una **paleta oscura y sobria** para reforzar el tono narrativo de la historia.
-- Se definió una **tipografía consistente** en todas las páginas para mejorar la lectura y la identidad visual.
-- Se aplicaron **fondos distintos** según el tipo de página:
-  - Inicio
-  - Páginas de elección
-  - Finales
-- Las opciones de decisión fueron diseñadas como **botones grandes y claros**, inspirados en sistemas de diálogo de videojuegos narrativos.
-- Se incorporaron **animaciones sutiles** mediante pseudoclases (`hover`, `transition`) para dar retroalimentación visual al usuario.
-- Las imágenes se integraron dentro de un **marco visual**, con tamaño controlado, bordes y sombra para que formen parte del diseño y no se vean colocadas sin intención.
+A dark and restrained color palette was used to create a comfortable viewing experience.
 
-## Implementación Técnica
+A consistent typography was defined across the page to improve readability and visual identity.
 
-- Todo el estilo se centralizó en un archivo `style.css`.
-- Cada página HTML enlaza el archivo CSS mediante rutas relativas.
-- El proyecto se ejecuta correctamente en **NGINX local**.
-- El estilo se mantiene consistente a lo largo de toda la navegación.
+Different background colors were applied depending on the page type:
 
-## Notas
+Home
 
+Choice pages
+
+Endings
+
+Interaction options were designed as large and clear buttons, inspired by dialogue systems from narrative video games.
+
+Subtle animations were added using CSS pseudoclasses such as hover and transition to provide visual feedback.
+
+Images were placed inside a visual frame, with controlled size, borders, and shadows, so they feel intentionally integrated into the design.
+
+Technical Implementation
+
+All styling was centralized in a single style.css file.
+
+Each HTML page links to the CSS file using relative paths.
+
+The project runs correctly on a local NGINX server.
+
+Visual consistency is maintained throughout the entire navigation flow.
+
+Notes
+
+Images are part of the visual design; in some environments they may not display correctly due to relative path issues, without affecting functionality or the applied style.
+
+The final result presents a user-friendly and easy-to-use design, focused on clarity and usability.
 Las imágenes forman parte del diseño visual; en algunos entornos pueden no mostrarse debido a rutas relativas, sin afectar la experiencia ni el estilo aplicado.
 
 <img width="1863" height="877" alt="image" src="https://github.com/user-attachments/assets/182eb3c1-9290-4b7f-b536-c3e95ea38056" />
