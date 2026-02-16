@@ -66,3 +66,6 @@ Las imágenes forman parte del diseño visual; en algunos entornos pueden no mos
 
 ---
 Laboratorio 2 – Sistemas y Tecnologías Web – UVG
+
+
+Video: https://youtu.be/9zqefoDhh08
