@@ -55,13 +55,14 @@ Notes
 
 Images are part of the visual design; in some environments they may not display correctly due to relative path issues, without affecting functionality or the applied style.
 
-The final result presents a user-friendly and easy-to-use design, focused on clarity and usability.
-Las imágenes forman parte del diseño visual; en algunos entornos pueden no mostrarse debido a rutas relativas, sin afectar la experiencia ni el estilo aplicado.
+
 
 <img width="1863" height="877" alt="image" src="https://github.com/user-attachments/assets/182eb3c1-9290-4b7f-b536-c3e95ea38056" />
 
-Mostrando un diseño amigable y facil de utilizar 
+
 <img width="1807" height="872" alt="image" src="https://github.com/user-attachments/assets/a4625404-fca3-41dc-9b74-f04f05bd4dc2" />
+The final result presents a user-friendly and easy-to-use design, focused on clarity and usability.
+Las imágenes forman parte del diseño visual; en algunos entornos pueden no mostrarse debido a rutas relativas, sin afectar la experiencia ni el estilo aplicado.
 
 ---
 Laboratorio 2 – Sistemas y Tecnologías Web – UVG
